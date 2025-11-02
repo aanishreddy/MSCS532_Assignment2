@@ -1,0 +1,19 @@
+algorithm,n,dataset,time_ms_avg,peak_kb_avg,trials
+Merge Sort,2000,sorted,22.161069333333334,39,3
+"Quick Sort (Hoare, median-of-three)",2000,sorted,26.715146999999998,16,3
+Merge Sort,2000,reverse,14.940494666666666,39,3
+"Quick Sort (Hoare, median-of-three)",2000,reverse,28.028887333333333,16,3
+Merge Sort,2000,random,22.280913666666667,33,3
+"Quick Sort (Hoare, median-of-three)",2000,random,28.785868666666666,16,3
+Merge Sort,5000,sorted,58.390495666666666,97,3
+"Quick Sort (Hoare, median-of-three)",5000,sorted,79.06411866666667,39,3
+Merge Sort,5000,reverse,57.67638266666667,97,3
+"Quick Sort (Hoare, median-of-three)",5000,reverse,80.45033066666666,39,3
+Merge Sort,5000,random,92.38081266666667,82,3
+"Quick Sort (Hoare, median-of-three)",5000,random,93.661939,40,3
+Merge Sort,10000,sorted,140.16225333333333,195,3
+"Quick Sort (Hoare, median-of-three)",10000,sorted,170.291249,79,3
+Merge Sort,10000,reverse,131.79498233333334,195,3
+"Quick Sort (Hoare, median-of-three)",10000,reverse,169.10504133333333,79,3
+Merge Sort,10000,random,220.40120000000002,164,3
+"Quick Sort (Hoare, median-of-three)",10000,random,202.24790099999998,79,3
